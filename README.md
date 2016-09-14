@@ -1,0 +1,2 @@
+# solidworks_new
+training
